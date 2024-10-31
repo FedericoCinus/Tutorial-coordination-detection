@@ -15,6 +15,7 @@ This repository provides a pipeline for detecting coordinated behavior between u
    ```bash
    git clone https://github.com/your-username/coordination-detection-visualization.git
    cd coordination-detection-visualization
+   ```
 
 
 
